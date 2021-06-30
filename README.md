@@ -6,7 +6,7 @@ and style image as input.
 Also Selenium is used for scraping images .
 This model can be used by the artists to generate new Arts without having any Intellectual Property Right issues.
 
-#Tools used-
+Tools used-
 1. Python-Numpy,Pandas
 2. Matplotlib
 3. Jupyter Notebook
